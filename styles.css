@@ -1,0 +1,59 @@
+h1 {
+    font-family: 'Stalinist One', cursive;
+    color:#a69edb;
+}
+.five {
+    font-family: 'Modak', cursive;
+    color: #0f79a6;
+}
+
+.without {
+    font-family: 'Balsamiq Sans', cursive;
+    color: #013145;
+}
+
+.exercise {
+    height: 170px;
+    border:20px solid blue;
+}
+.pic{
+    height:500px;
+    width:70%;
+}
+
+
+h2 {
+    color: #ffffff;
+}
+
+.baking {
+    height: 170px;
+border: 20px solid purple;
+}
+
+.craft {
+    height: 170px;
+    border: 20px solid pink ;
+}
+
+li {
+    font-family: 'Nerko One', cursive;
+    color: #3285a8;
+}
+
+.youtube {
+    font-family: 'Nerko One', cursive;
+    color: #074f6e;
+}
+.hello{
+    background-color:#f0c2ff;
+     font-family: 'Nerko One', cursive;
+    color:#d48feb;
+}
+body{    background:url("https://static-cse.canva.com/blob/140234/Rainbow-Gradient-Pink-and-Purple-Zoom-Virtual-Background.png");
+}
+.why{
+   font-family: 'Nerko One', cursive;
+    color:#504599;
+}
+
